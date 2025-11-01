@@ -10,7 +10,7 @@ QuotesVerse is a modern React web app where users can share their personal quote
 
 🖼️ Live Demo
 
-🔗 quotes-verse.netlify.app
+🔗 [quotes-verse.netlify.app](https://quotes-verse.netlify.app/)
 
 
 ---
