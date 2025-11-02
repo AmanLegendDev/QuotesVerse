@@ -71,7 +71,7 @@ QuotesVerse/
 🛠️ Setup Instructions
 
 # Clone the repository
-[git clone https://github.com/your-username/QuotesVerse.git](https://amanlegenddev.github.io/QuotesVerse/)
+[git clone https://github.com/AmanLegendDev/QuotesVerse.git](https://amanlegenddev.github.io/QuotesVerse/)
 
 # Navigate to the project folder
 cd QuotesVerse
